@@ -1,0 +1,659 @@
+admin_title:
+  0:
+    type: heading1
+    text: Home
+    spans:
+meta_title: Freelance frontend user interface developer, London UK
+meta_description: Michael Pumo is a frontend web developer based in London UK focusing on development with modern frontend technologies and practices. Skillset includes TypeScript frameworks such as Vue.js and React.js, SCSS, HTML and API integration with third-parties.
+meta_keywords: web, frontend, developer, UX, vue.js, react.js, nuxt.js, node.js, css, html, javascript, wordpress, webpack, design
+meta_author: Michael Pumo
+meta_image:
+  dimensions:
+    width: 800
+    height: 800
+  alt: Michael Pumo - Frontend web developer and interface designer, London UK
+  copyright: null
+  url: https://images.prismic.io/michaelpumo/99ec04de-d6df-4a07-b9ea-5214e7cb93a0_michael-pumo-og.jpg?auto=compress,format
+  id: Xme3LxUAACYABLHi
+  edit:
+    x: 0
+    y: 0
+    zoom: 1
+    background: #fff
+title: Hello. I’m a freelance user interface developer
+description:
+  0:
+    type: paragraph
+    text: My name’s Michael Pumo. I craft user interfaces using 
+modern frontend web technologies.
+    spans:
+colophon:
+  0:
+    type: paragraph
+    text: Find me at Twitter, GitHub and LinkedIn.
+Download my resume (PDF 956kb)
+    spans:
+      0:
+        start: 11
+        end: 18
+        type: hyperlink
+        data:
+          link_type: Web
+          url: https://twitter.com/michaelpumo
+          target: _blank
+      1:
+        start: 20
+        end: 26
+        type: hyperlink
+        data:
+          link_type: Web
+          url: https://github.com/michaelpumo
+          target: _blank
+      2:
+        start: 31
+        end: 39
+        type: hyperlink
+        data:
+          link_type: Web
+          url: https://www.linkedin.com/in/michaelpumo/
+          target: _blank
+      3:
+        start: 50
+        end: 59
+        type: hyperlink
+        data:
+          link_type: Media
+          id: Zn0l1JbWFbowe70j
+          name: michael-pumo.pdf
+          kind: document
+          url: https://michaelpumo.cdn.prismic.io/michaelpumo/Zn0l1JbWFbowe70j_michael-pumo.pdf
+          size: 956415
+    direction: ltr
+button_id: contact
+button_title: Let's work together!
+body:
+  0:
+    primary:
+      id: introduction
+      image:
+        dimensions:
+          width: 1000
+          height: 1000
+        alt: Michael Pumo - Frontend web developer and interface designer, London UK
+        copyright: null
+        url: https://images.prismic.io/michaelpumo/066abc58-23ad-4019-9dc3-c3a5e465cb1f_michael-pumo-developer.jpg?auto=compress,format
+        id: Xme3LxUAACUABLHh
+        edit:
+          x: 0
+          y: 0
+          zoom: 1
+          background: #fff
+    items:
+      0:
+    id: image$1119b9e6-98ad-4b92-9747-d4ffb6c311fa
+    slice_type: image
+    slice_label: null
+  1:
+    primary:
+      id: about
+      content:
+        0:
+          type: heading2
+          text: About me
+          spans:
+        1:
+          type: heading3
+          text: I enjoy working closely with design teams to faithfully translate their designs right down to the last pixel. Daily, you'll find me using modern frontend technologies that bring the creative process to life just as designers intended them to be.
+          spans:
+        2:
+          type: heading4
+          text: Technical
+          spans:
+        3:
+          type: paragraph
+          text: Right now you can find me hacking away primarily with Vue, Nuxt, Storyblok, Prismic, GraphQL, Netflify, React and in general anything JavaScript / TypeScript, HTML and CSS related.
+          spans:
+        4:
+          type: heading4
+          text: Personal
+          spans:
+        5:
+          type: paragraph
+          text: I grew up in Nottingham and moved to London many years ago. Being half Italian and half British, I try to visit family in Sicily whenever I can to practice (struggling) with the basics of the language.
+          spans:
+        6:
+          type: paragraph
+          text: Allora, lavoriamo insieme!
+          spans:
+    items:
+      0:
+    id: text$b2b57486-de88-45cb-8df7-f6fe4c02c4da
+    slice_type: text
+    slice_label: null
+  2:
+    primary:
+      id: clients
+    items:
+      0:
+        name: SomeOne
+        role: Greenfield project using Nuxt.js with Prismic hosted on Zeit Now.
+        logo: someone
+      1:
+        name: Ragged Edge
+        role: Custom WordPress builds for big-name retail and catering brands.
+        logo: raggededge
+      2:
+        name: The Hoxton
+        role: Production of the WorkingFrom_ website  built with Nuxt.js and WordPress.
+        logo: thehoxton
+      3:
+        name: All Of Us
+        role: Design system and component library for G. F. Smith built with Vue.js and Storybook.
+        logo: allofus
+      4:
+        name: Foolproof
+        role: Agency website using our own custom component library built with VDS.
+        logo: foolproof
+      5:
+        name: Parallel
+        role: Various web application builds and maintenance for a range of clients.
+        logo: parallel
+      6:
+        name: Somo
+        role: De Beers frontend Magento build and various government projects under NDA.
+        logo: somo
+      7:
+        name: Rotate
+        role: Several Vue.js and Nuxt.js builds with custom headless CMS's.
+        logo: rotate
+    id: clients$9678709d-92fe-480d-9631-75b0806b74bb
+    slice_type: clients
+    slice_label: null
+  3:
+    primary:
+      id: references
+    items:
+      0:
+        quote:
+          0:
+            type: paragraph
+            text: We've worked with Michael on several projects and the work is of consistently high-quality. He continues to be one of our most valued digital resources and we look forward to working together more in future.
+            spans:
+        name: Matt Bland
+        author: Managing Director at Ragged Edge
+      1:
+        quote:
+          0:
+            type: paragraph
+            text: Michael was incredibly thorough and professional in bringing our new website to life. As designers, we can be quite picky about how things work, but he took the challenge and developed every single aspect beautifully.
+            spans:
+        name: Renata Garcia
+        author: Producer at Moth
+      2:
+        quote:
+          0:
+            type: paragraph
+            text: Working with Michael has always been a smooth process from initial concepts to problem-solving, right through to every aspect of the development stages. He's our perfect digital partner.
+            spans:
+        name: Paul Fox
+        author: Creative Director at Parallel
+    id: quotes$d72310a4-7edb-44e1-b419-3b8b40abd357
+    slice_type: quotes
+    slice_label: null
+  4:
+    primary:
+      id: projects
+      content:
+        0:
+          type: heading2
+          text: Projects
+          spans:
+        1:
+          type: paragraph
+          text: Swipe or drag below to see a small selection of projects I've worked on.
+          spans:
+    items:
+      0:
+        image:
+          dimensions:
+            width: 800
+            height: 1066
+          alt: Greggs
+          copyright: null
+          url: https://images.prismic.io/michaelpumo/1fa767de-2f4b-4e88-8e7c-b8d75c0bb8a2_greggs.jpg?auto=compress,format
+          id: ZD2i3xUAACgAJLYl
+          edit:
+            x: 0
+            y: 0
+            zoom: 1
+            background: #fff
+        name: Greggs
+        role: Technical migration to a new framework and production of a new component library.
+        link:
+          link_type: Web
+          url: https://www.greggs.co.uk
+          target: _blank
+      1:
+        image:
+          dimensions:
+            width: 800
+            height: 1066
+          alt: Parallel
+          copyright: null
+          url: https://images.prismic.io/michaelpumo/423bc77f-5383-4f43-bcf9-548e7f8eac4d_project-parallel.jpg?auto=compress,format
+          id: ZH-VYBAAACQADYy1
+          edit:
+            x: 0
+            y: 0
+            zoom: 1
+            background: #fff
+        name: Parallel
+        role: A brand new website build for this established East London graphic design studio.
+        link:
+          link_type: Web
+          url: https://studioparallel.co.uk
+          target: _blank
+      2:
+        image:
+          dimensions:
+            width: 800
+            height: 1066
+          alt: Limesharp
+          copyright: null
+          url: https://images.prismic.io/michaelpumo/5c3f6dbe-7740-4bcd-a282-ed77238ed0a8_project-limesharp.jpg?auto=compress,format
+          id: ZK67thEAACYAYWGx
+          edit:
+            x: 0
+            y: 0
+            zoom: 1
+            background: #fff
+        name: Limesharp
+        role: Digital agency specialising in eCommerce with Magento.
+        link:
+          link_type: Web
+          url: https://limesharp.net
+          target: _blank
+      3:
+        image:
+          dimensions:
+            width: 800
+            height: 1066
+          alt: General People
+          copyright: null
+          url: https://images.prismic.io/michaelpumo/26c0bd12-5afb-4879-a64f-b17bb7b85aba_project-general-people.jpg?auto=compress,format
+          id: YYr2iREAACQAUVcq
+          edit:
+            x: 0
+            y: 0
+            zoom: 1
+            background: #fff
+        name: General People
+        role: Delivering pioneering yet practical workplaces.
+        link:
+          link_type: Web
+          url: https://generalpeople.com
+          target: _blank
+      4:
+        image:
+          dimensions:
+            width: 800
+            height: 1066
+          alt: Moth - Nuxt.js, Prismic CMS, JavaScript
+          copyright: null
+          url: https://images.prismic.io/michaelpumo/2cda8e7c-be5a-45a2-9e34-0b2730fe1dae_project-moth.jpg?auto=compress,format
+          id: Xkq99RAAACIAH0nj
+          edit:
+            x: 0
+            y: 0
+            zoom: 1
+            background: #fff
+        name: Moth
+        role: Award-winning animation studio web-build with Nuxt.js and Prismic.
+        link:
+          link_type: Web
+          url: https://www.moth.studio
+          target: _blank
+      5:
+        image:
+          dimensions:
+            width: 800
+            height: 1066
+          alt: G.F Smith
+          copyright: null
+          url: https://images.prismic.io/michaelpumo/3fce02c2-16f5-411a-b15a-cca68f14f423_project-gf-smith.jpg?auto=compress,format
+          id: YCKiNhIAACIAQRaL
+          edit:
+            x: 0
+            y: 0
+            zoom: 1
+            background: #fff
+        name: G.F Smith
+        role: 135 years making and curating the world’s finest and most distinctive papers.
+        link:
+          link_type: Web
+          url: https://gfsmith.com/
+          target: _blank
+      6:
+        image:
+          dimensions:
+            width: 800
+            height: 1066
+          alt: Blaasmo - Gridsome, Vue.js, Prismic, JavaScript
+          copyright: null
+          url: https://images.prismic.io/michaelpumo/4723a646-c7c6-4b24-af5b-e587d32a506d_blaasmo.jpg?auto=compress,format
+          id: Xt-mIxEAACAAIIP9
+          edit:
+            x: 0
+            y: 0
+            zoom: 1
+            background: #fff
+        name: Blaasmo
+        role: Art advisor & collection management single page site built with Gridsome and Prismic.
+        link:
+          link_type: Web
+          url: https://blaasmo.com
+          target: _blank
+      7:
+        image:
+          dimensions:
+            width: 800
+            height: 1066
+          alt: Working From - Nuxt.js, Prismic CMS, JavaScript
+          copyright: null
+          url: https://images.prismic.io/michaelpumo/f87b1b27-056b-4bd1-99c4-45f864753cfe_project-working-from.jpg?auto=compress,format
+          id: Xkq_mBAAACEAH1DB
+          edit:
+            x: 0
+            y: 0
+            zoom: 1
+            background: #fff
+        name: Working From_
+        role: Co-working space from The Hoxton built with Nuxt.js and WordPress.
+        link:
+          link_type: Web
+          url: https://workingfrom.thehoxton.com
+          target: _blank
+      8:
+        image:
+          dimensions:
+            width: 800
+            height: 1066
+          alt: Point Campus - Nuxt.js, Prismic CMS, JavaScript
+          copyright: null
+          url: https://images.prismic.io/michaelpumo/902e3e9a-d59f-415d-8396-6ea35212dcb0_project-point-campus.jpg?auto=compress,format
+          id: Xkq6iBAAACEAHzqH
+          edit:
+            x: 0
+            y: 0
+            zoom: 1
+            background: #fff
+        name: Point Campus
+        role: Student development web-build made with Nuxt.js and Prismic.
+        link:
+          link_type: Web
+          url: https://pointcampus.ie
+          target: _blank
+      9:
+        image:
+          dimensions:
+            width: 800
+            height: 1066
+          alt: Foolproof - Nuxt.js, Silverstripe CMS, JavaScript
+          copyright: null
+          url: https://images.prismic.io/michaelpumo/16ce72ae-52ea-422c-a108-a98f19826a63_project-foolproof.jpg?auto=compress,format
+          id: XksiKRAAACQAIP0b
+          edit:
+            x: 0
+            y: 0
+            zoom: 1
+            background: #fff
+        name: Foolproof
+        role: Agency web-build made with Nuxt.js and Silverstripe CMS.
+        link:
+          link_type: Web
+          url: https://foolproof.co.uk
+          target: _blank
+      10:
+        image:
+          dimensions:
+            width: 800
+            height: 1066
+          alt: Ragged Edge - WordPress, PHP, JavaScript, CSS
+          copyright: null
+          url: https://images.prismic.io/michaelpumo/af9faaa3-576b-4d33-a263-b83a2a0f9366_project-raggededge.jpg?auto=compress,format
+          id: XksiKxAAACEAIP0k
+          edit:
+            x: 0
+            y: 0
+            zoom: 1
+            background: #fff
+        name: Ragged Edge
+        role: Agency portfolio built as a fully bespoke WordPress theme.
+        link:
+          link_type: Web
+          url: https://raggededge.com
+          target: _blank
+      11:
+        image:
+          dimensions:
+            width: 800
+            height: 1066
+          alt: Jason Bailey  - WordPress, PHP, JavaScript, CSS
+          copyright: null
+          url: https://images.prismic.io/michaelpumo/f472a35e-b086-4020-b7f8-72d94bbf9c92_project-jasonbailey.jpg?auto=compress,format
+          id: XksiKRAAACMAIP0a
+          edit:
+            x: 0
+            y: 0
+            zoom: 1
+            background: #fff
+        name: Jason Bailey
+        role: Photography portfolio built with a fully bespoke WordPress system.
+        link:
+          link_type: Web
+          url: https://jasonbaileystudio.com
+          target: _blank
+      12:
+        image:
+          dimensions:
+            width: 800
+            height: 1066
+          alt: Sobolinaya - Vue.js, Prismic CMS, JavaScript
+          copyright: null
+          url: https://images.prismic.io/michaelpumo/c404e552-1a9e-43b9-8337-b3ae118022c0_project-sobolinaya.jpg?auto=compress,format
+          id: XksiKhAAACIAIP0g
+          edit:
+            x: 0
+            y: 0
+            zoom: 1
+            background: #fff
+        name: Sobolinaya
+        role: Microsite for a Vodka brand built with Vue.js
+        link:
+          link_type: Web
+          url: https://sobolinaya.com
+          target: _blank
+      13:
+        image:
+          dimensions:
+            width: 800
+            height: 1066
+          alt: Pay.UK - WordPress, PHP, JavaScript, CSS
+          copyright: null
+          url: https://images.prismic.io/michaelpumo/8ccf1f90-5deb-48da-8014-94219db4ef70_project-payuk.jpg?auto=compress,format
+          id: XksqNBAAACQAISBd
+          edit:
+            x: 0
+            y: 0
+            zoom: 1
+            background: #fff
+        name: Pay.UK
+        role: Full custom WordPress build for the leading retail payments authority.
+        link:
+          link_type: Web
+          url: https://www.wearepay.uk
+          target: _blank
+      14:
+        image:
+          dimensions:
+            width: 800
+            height: 1066
+          alt: How Now - Nuxt.js, Prismic CMS, JavaScript
+          copyright: null
+          url: https://images.prismic.io/michaelpumo/1fa2aa38-64c7-495c-b0cd-cf3dbdded15b_project-hownow.jpg?auto=compress,format
+          id: XksqNBAAACQAISBY
+          edit:
+            x: 0
+            y: 0
+            zoom: 1
+            background: #fff
+        name: How Now
+        role: Creative agency and production company web-build on Nuxt.js and Prismic.
+        link:
+          link_type: Web
+          url: https://www.hownowcreative.com
+          target: _blank
+      15:
+        image:
+          dimensions:
+            width: 800
+            height: 1066
+          alt: This Works - Nuxt.js, Prismic CMS, JavaScript
+          copyright: null
+          url: https://images.prismic.io/michaelpumo/a0f317e5-36b4-421b-b513-4ce45e13ea2f_project-thisworks.jpg?auto=compress,format
+          id: XksiKhAAACIAIP0h
+          edit:
+            x: 0
+            y: 0
+            zoom: 1
+            background: #fff
+        name: This Works
+        role: Design agency portfolio built with Nuxt.js and Prismic.
+        link:
+          link_type: Web
+          url: https://thisworks.co
+          target: _blank
+      16:
+        image:
+          dimensions:
+            width: 800
+            height: 1066
+          alt: Jax Coco
+          copyright: null
+          url: https://images.prismic.io/michaelpumo/3b6dfb52-e34a-4ebc-a15f-f981d4ab7629_project-jaxcoco.jpg?auto=compress,format
+          id: XksqNBAAACQAISBe
+          edit:
+            x: 0
+            y: 0
+            zoom: 1
+            background: #fff
+        name: Jax Coco
+        role: Single-page microsite built statically with Pug and vanilla JavaScript.
+        link:
+          link_type: Web
+          url: https://www.jaxcoco.com
+          target: _blank
+      17:
+        image:
+          dimensions:
+            width: 800
+            height: 1066
+          alt: Applied Studio
+          copyright: null
+          url: https://images.prismic.io/michaelpumo/c68426ed-e671-44bc-9e2e-9dfd468cff99_project-appliedstudio.jpg?auto=compress,format
+          id: XksqNRAAACMAISBl
+          edit:
+            x: 0
+            y: 0
+            zoom: 1
+            background: #fff
+        name: Applied Studio
+        role: Architecture and interior design portfolio built on WordPress.
+        link:
+          link_type: Web
+          url: https://applied.studio
+          target: _blank
+      18:
+        image:
+          dimensions:
+            width: 800
+            height: 1066
+          alt: De Beers
+          copyright: null
+          url: https://images.prismic.io/michaelpumo/654141bf-6249-401a-a635-c86b37869476_project-debeers.jpg?auto=compress,format
+          id: XksiKRAAACMAIP0Z
+          edit:
+            x: 0
+            y: 0
+            zoom: 1
+            background: #fff
+        name: De Beers
+        role: E-commerce site for the World's largest diamond company built on Magento.
+        link:
+          link_type: Web
+          url: https://www.debeers.com
+          target: _blank
+      19:
+        image:
+          dimensions:
+            width: 800
+            height: 1066
+          alt: Ledmore Capital
+          copyright: null
+          url: https://images.prismic.io/michaelpumo/4e39ec11-5f7c-4899-b499-5ee89c67e9c2_ledmore.jpg?auto=compress,format
+          id: XudKzBEAAAS3P9cG
+          edit:
+            x: 0
+            y: 0
+            zoom: 1
+            background: #fff
+        name: Ledmore Capital
+        role: Administering a diversified range of interests for an entrepreneurial family.
+        link:
+          link_type: Web
+          url: https://www.ledmorecapital.com
+          target: _blank
+      20:
+        image:
+          dimensions:
+            width: 800
+            height: 1066
+          alt: Chorus
+          copyright: null
+          url: https://images.prismic.io/michaelpumo/7e3e67ea-d0ea-45a0-a3eb-15feafe3bec0_project-chorus.jpg?auto=compress,format
+          id: YBR8-BIAACIAAr1j
+          edit:
+            x: 0
+            y: 0
+            zoom: 1
+            background: #fff
+        name: Chorus
+        role: A creative agency producing powerful, theatrical & strategic live & digital experiences.
+        link:
+          link_type: Web
+          url: https://chorus.london
+          target: _blank
+    id: projects$95949e2a-06d4-4b9f-a7db-10236087d7d3
+    slice_type: projects
+    slice_label: null
+  5:
+    primary:
+      id: contact
+      content:
+        0:
+          type: heading2
+          text: Contact me
+          spans:
+        1:
+          type: heading3
+          text: Don't be shy!
+          spans:
+        2:
+          type: paragraph
+          text: If you have a project in mind or would like to make an enquiry simply select one of the following options.
+          spans:
+    items:
+      0:
+    id: contact$a0f6bc8d-737f-4aab-8d8c-27407f846dce
+    slice_type: contact
+    slice_label: null

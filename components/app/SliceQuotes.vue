@@ -1,4 +1,4 @@
-<template>
+<!-- <template>
   <SectionSlice :class="$options.className">
     <div
       ref="carousel"
@@ -25,6 +25,44 @@
               </p>
             </footer>
           </blockquote>
+        </li>
+      </ul>
+      <div class="swiper-pagination" />
+    </div>
+  </SectionSlice>
+</template> -->
+
+<template>
+  <SectionSlice :class="$options.className">
+    <div
+      ref="carousel"
+      :class="[`${$options.className}__container`, 'swiper-container']"
+    >
+      <ul :class="[`${$options.className}__list`, 'swiper-wrapper']">
+        <li
+          v-for="(client, index) in slice.items"
+          :key="index"
+          :class="[`${$options.className}__item`, 'swiper-slide']"
+        >
+          <article :class="`${$options.className}__article`">
+            <h2 v-if="client.heading" :class="`${$options.className}__heading`">
+              {{ client.heading }}
+            </h2>
+            <PrismicRichtext
+              v-if="client.paragraph && client.paragraph.length"
+              :class="`${$options.className}__paragraph`"
+              :html="client.paragraph"
+            />
+            <a
+              v-if="client.link && client.link.url"
+              :href="client.link.url"
+              :class="`${$options.className}__link`"
+              target="_blank"
+              rel="noopener noreferrer"
+            >
+              {{ client.link_label }}
+            </a>
+          </article>
         </li>
       </ul>
       <div class="swiper-pagination" />
@@ -171,15 +209,24 @@ export default {
     }
   }
 
-  &__blockquote {
+  &__article {
     width: 100%;
     margin: 0;
   }
 
-  &__content {
-    &::v-deep * {
-      @include type-style('3');
+  &__heading {
+    @include type-style('2');
 
+    font-weight: bold;
+    margin-bottom: var(--spacing-unit);
+  }
+
+  &__paragraph {
+    @include type-style('3');
+
+    margin-bottom: var(--spacing-unit);
+
+    &::v-deep * {
       font-weight: 500;
 
       @include media('sm') {
@@ -188,13 +235,11 @@ export default {
     }
   }
 
-  &__name,
-  &__author {
-    width: 100%;
-  }
-
-  &__author {
-    margin-bottom: 0;
+  &__link {
+    @include type-style('3');
+    
+    color: var(--color-primary);
+    text-decoration: underline;
   }
 }
 </style>

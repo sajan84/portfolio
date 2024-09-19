@@ -35,6 +35,7 @@ import { mapGetters } from 'vuex'
 import AppHero from '@/components/app/AppHero.vue'
 import AppNavigation from '@/components/app/AppNavigation.vue'
 import SliceZone from '@/components/app/SliceZone.vue'
+import axios from 'axios'
 
 export default {
   name: 'Page',
@@ -53,7 +54,10 @@ export default {
       }
 
       const slug = params?.slug || 'home'
-      const page = (await $prismic.api.getByUID('page', slug)).data
+      // console.log('Fetching data for slug:', slug)
+      const response = await axios.get('/content.json')
+      // console.log('Data fetched successfully:', response.data)
+      const page = response.data
 
       return {
         ...page,
