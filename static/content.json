@@ -6,8 +6,8 @@
       "spans": []
     }
   ],
-  "meta_title": "Freelance frontend user interface developer, London UK",
-  "meta_description": "Michael Pumo is a frontend web developer based in London UK focusing on development with modern frontend technologies and practices. Skillset includes TypeScript frameworks such as Vue.js and React.js, SCSS, HTML and API integration with third-parties.",
+  "meta_title": "Software Developer and Web Developer",
+  "meta_description": "Sajan Pande is a FullStack web developer focusing on development with modern frontend technologies and practices. Skillset includes TypeScript frameworks such as Vue.js and React.js, SCSS, HTML and API integration with third-parties.",
   "meta_keywords": "web, frontend, developer, UX, vue.js, react.js, nuxt.js, node.js, css, html, javascript, wordpress, webpack, design",
   "meta_author": "Michael Pumo",
   "meta_image": {
@@ -15,9 +15,9 @@
       "width": 800,
       "height": 800
     },
-    "alt": "Michael Pumo - Frontend web developer and interface designer, London UK",
+    "alt": "Sajan Pande - Frontend web developer and interface designer",
     "copyright": null,
-    "url": "https://images.prismic.io/michaelpumo/99ec04de-d6df-4a07-b9ea-5214e7cb93a0_michael-pumo-og.jpg?auto=compress,format",
+    "url": "",
     "id": "Xme3LxUAACYABLHi",
     "edit": {
       "x": 0,
@@ -26,11 +26,11 @@
       "background": "#fff"
     }
   },
-  "title": "I am Kshitij Ayush, I Bridge Function and Form in Software",
+  "title": "I am Sajan Pande, I Bridge Function and Form in Software",
   "description": [
     {
       "type": "paragraph",
-      "text": "I am a FullStack Web and Software Developer and Blockchain Enthusiast who enjoys learning new technologies. I love competing in Hackathons and working on interesting project ideas where I can learn and hone my skils.",
+      "text": "I am a FullStack Web and Software Developer  who enjoys learning new technologies. I love competing in Hackathons and working on interesting project ideas where I can learn and hone my skils.",
       "spans": []
     }
   ],
@@ -45,7 +45,7 @@
           "type": "hyperlink",
           "data": {
             "link_type": "Web",
-            "url": "https://github.com/kshitij-404/",
+            "url": "https://github.com/sajan84",
             "target": "_blank"
           }
         },
@@ -55,7 +55,7 @@
           "type": "hyperlink",
           "data": {
             "link_type": "Web",
-            "url": "https://www.linkedin.com/in/kshitijayush4/",
+            "url": "https://www.linkedin.com/in/sajan-pande-8745b420a/",
             "target": "_blank"
           }
         },
@@ -65,7 +65,7 @@
           "type": "hyperlink",
           "data": {
             "link_type": "Web",
-            "url": "https://kshitij-ayush.tech/resume.pdf",
+            "url": "https://drive.google.com/file/d/1-BIqXC2zYASoOocHK_TQXpDmP0wWtnI1/view?usp=sharing",
             "target": "_blank"
           }
         }
@@ -84,9 +84,9 @@
             "width": 1000,
             "height": 1000
           },
-          "alt": "Michael Pumo - Frontend web developer and interface designer, London UK",
+          "alt": "Sajan Pande",
           "copyright": null,
-          "url": "https://images.prismic.io/michaelpumo/066abc58-23ad-4019-9dc3-c3a5e465cb1f_michael-pumo-developer.jpg?auto=compress,format",
+          "url": "sajan1.jpg",
           "id": "Xme3LxUAACUABLHh",
           "edit": {
             "x": 0,
@@ -112,7 +112,7 @@
           },
           {
             "type": "paragraph",
-            "text": "Hello! I'm Kshitij Ayush, a software developer passionate about fullstack web, innovative software solutions, and blockchain technologies. As an Integrated B.Tech and M.Tech student at IIIT Gwalior, I've honed a versatile skill set that empowers me to tackle complex challenges from multiple perspectives.",
+            "text": "Hello! I'm Sajan Pande, a software developer passionate about fullstack web development, innovative software solutions. As an  B.Tech student at Gujarat Techonolgy University, I've honed a versatile skill set that empowers me to tackle complex challenges from multiple perspectives.",
             "spans": [
               {
                 "start": 10,
@@ -123,7 +123,7 @@
           },
           {
             "type": "paragraph",
-            "text": "My journey in tech has been marked by a series of exciting internships, projects and hackathons. From securing the second runner up position at the prestigious Flipkart GRiD to being part of the top 5 at Rakuten Rakthon, I've consistently pushed the boundaries of what's possible in web and software development. These experiences showcase my ability to leverage emerging technologies and my deep understanding of both high-level and low-level software architecture.",
+            "text": "My journey in tech has been marked by a series of exciting internships, projects and hackathons. I've consistently pushed the boundaries of what's possible in web and software development. These experiences showcase my ability to leverage emerging technologies and my deep understanding of both high-level and low-level software architecture.",
             "spans": [
               {
                 "start": 68,
@@ -149,7 +149,7 @@
           },
           {
             "type": "paragraph",
-            "text": "-   JavaScript/TypeScript\n-   NodeJS/ExpressJS\n-   ReactJS/NextJS\n-   Rust\n-   Go\n-   AWS\n-   MongoDB\n-   Blockchain (Solidity)",
+            "text": "-   JavaScript/TypeScript\n-   NodeJS/ExpressJS\n-   ReactJS/NextJS\n-  Angular\n-   Azure\n-   MongoDB\n-   Spring/SpringBoot\n- Java ",
             "spans": []
           }
         ]
@@ -159,56 +159,7 @@
       "slice_type": "text",
       "slice_label": null
     },
-    {
-      "primary": {
-        "id": "clients"
-      },
-      "items": [
-        {
-          "name": "SomeOne",
-          "role": "Greenfield project using Nuxt.js with Prismic hosted on Zeit Now.",
-          "logo": "someone"
-        },
-        {
-          "name": "Ragged Edge",
-          "role": "Custom WordPress builds for big-name retail and catering brands.",
-          "logo": "raggededge"
-        },
-        {
-          "name": "The Hoxton",
-          "role": "Production of the WorkingFrom_ website \nbuilt with Nuxt.js and WordPress.",
-          "logo": "thehoxton"
-        },
-        {
-          "name": "All Of Us",
-          "role": "Design system and component library for G. F. Smith built with Vue.js and Storybook.",
-          "logo": "allofus"
-        },
-        {
-          "name": "Foolproof",
-          "role": "Agency website using our own custom component library built with VDS.",
-          "logo": "foolproof"
-        },
-        {
-          "name": "Parallel",
-          "role": "Various web application builds and maintenance for a range of clients.",
-          "logo": "parallel"
-        },
-        {
-          "name": "Somo",
-          "role": "De Beers frontend Magento build and various government projects under NDA.",
-          "logo": "somo"
-        },
-        {
-          "name": "Rotate",
-          "role": "Several Vue.js and Nuxt.js builds with custom headless CMS's.",
-          "logo": "rotate"
-        }
-      ],
-      "id": "clients$9678709d-92fe-480d-9631-75b0806b74bb",
-      "slice_type": "clients",
-      "slice_label": null
-    },
+
     {
       "primary": {
         "id": "references"
@@ -219,7 +170,7 @@
           "paragraph": [
             {
               "type": "paragraph",
-              "text": "We've worked with Michael on several projects and the work is of consistently high-quality. He continues to be one of our most valued digital resources and we look forward to working together more in future.",
+              "text": "We've worked with Sajan on several projects and the work is of consistently high-quality. He continues to be one of our most valued digital resources and we look forward to working together more in future.",
               "spans": []
             }
           ],
@@ -233,7 +184,7 @@
           "paragraph": [
             {
               "type": "paragraph",
-              "text": "Michael was incredibly thorough and professional in bringing our new website to life. As designers, we can be quite picky about how things work, but he took the challenge and developed every single aspect beautifully.",
+              "text": "Sajan was incredibly thorough and professional in bringing our new website to life. As designers, we can be quite picky about how things work, but he took the challenge and developed every single aspect beautifully.",
               "spans": []
             }
           ],
@@ -247,7 +198,7 @@
           "paragraph": [
             {
               "type": "paragraph",
-              "text": "Working with Michael has always been a smooth process from initial concepts to problem-solving, right through to every aspect of the development stages. He's our perfect digital partner.",
+              "text": "Working with Sajan has always been a smooth process from initial concepts to problem-solving, right through to every aspect of the development stages. He's our perfect digital partner.",
               "spans": []
             }
           ],
@@ -284,9 +235,9 @@
               "width": 800,
               "height": 1066
             },
-            "alt": "Greggs",
+            "alt": "Github Circle",
             "copyright": null,
-            "url": "https://images.prismic.io/michaelpumo/1fa767de-2f4b-4e88-8e7c-b8d75c0bb8a2_greggs.jpg?auto=compress,format",
+            "url": "githubC.png",
             "id": "ZD2i3xUAACgAJLYl",
             "edit": {
               "x": 0,
@@ -295,11 +246,11 @@
               "background": "#fff"
             }
           },
-          "name": "Greggs",
-          "role": "Technical migration to a new framework and production of a new component library.",
+          "name": "GitHub Circle",
+          "role": "Discover a smarter way to explore. It not only provides detailed insights but also creates interactive UI components on-the-fly.",
           "link": {
             "link_type": "Web",
-            "url": "https://www.greggs.co.uk",
+            "url": "https://www.githubcircles.xyz/",
             "target": "_blank"
           }
         },
@@ -309,9 +260,9 @@
               "width": 800,
               "height": 1066
             },
-            "alt": "Parallel",
+            "alt": "Melomint",
             "copyright": null,
-            "url": "https://images.prismic.io/michaelpumo/423bc77f-5383-4f43-bcf9-548e7f8eac4d_project-parallel.jpg?auto=compress,format",
+            "url": "melnomint.png",
             "id": "ZH-VYBAAACQADYy1",
             "edit": {
               "x": 0,
@@ -320,11 +271,11 @@
               "background": "#fff"
             }
           },
-          "name": "Parallel",
-          "role": "A brand new website build for this established East London graphic design studio.",
+          "name": "Melomint",
+          "role": "A Unique music platform empowering artists with AI-driven nested royalties and NFT members and Transparent analytics. Seamless access to a vast high-quality song library for users. Support artists with exclusive NFTs with Flow blockchain.",
           "link": {
             "link_type": "Web",
-            "url": "https://studioparallel.co.uk",
+            "url": "https://melomint.vercel.app/",
             "target": "_blank"
           }
         },
@@ -334,9 +285,9 @@
               "width": 800,
               "height": 1066
             },
-            "alt": "Limesharp",
+            "alt": "MakeIt",
             "copyright": null,
-            "url": "https://images.prismic.io/michaelpumo/5c3f6dbe-7740-4bcd-a282-ed77238ed0a8_project-limesharp.jpg?auto=compress,format",
+            "url": "makeit.png",
             "id": "ZK67thEAACYAYWGx",
             "edit": {
               "x": 0,
@@ -345,24 +296,23 @@
               "background": "#fff"
             }
           },
-          "name": "Limesharp",
-          "role": "Digital agency specialising in eCommerce with Magento.",
+          "name": "MakeIt",
+          "role": "A web app for visualizing personalized Spotify data. View your top artists, top tracks, recently played tracks, and detailed audio information about each track. Create and save new playlists of recommended tracks based on your existing playlists and more.",
           "link": {
             "link_type": "Web",
-            "url": "https://limesharp.net",
+            "url": "https://makeit-frontend.vercel.app/",
             "target": "_blank"
           }
-        },
-        {
+        },        {
           "image": {
             "dimensions": {
               "width": 800,
               "height": 1066
             },
-            "alt": "General People",
+            "alt": "ZestX",
             "copyright": null,
-            "url": "https://images.prismic.io/michaelpumo/26c0bd12-5afb-4879-a64f-b17bb7b85aba_project-general-people.jpg?auto=compress,format",
-            "id": "YYr2iREAACQAUVcq",
+            "url": "zest.png",
+            "id": "ZK67thEAACYAYWGx",
             "edit": {
               "x": 0,
               "y": 0,
@@ -370,436 +320,11 @@
               "background": "#fff"
             }
           },
-          "name": "General People",
-          "role": "Delivering pioneering yet practical workplaces.",
+          "name": "Zest",
+          "role": "The website has events for a month, with visitor and admin modes. Visitors register and verify email to access events, while admins manage users and events through direct database access.",
           "link": {
             "link_type": "Web",
-            "url": "https://generalpeople.com",
-            "target": "_blank"
-          }
-        },
-        {
-          "image": {
-            "dimensions": {
-              "width": 800,
-              "height": 1066
-            },
-            "alt": "Moth - Nuxt.js, Prismic CMS, JavaScript",
-            "copyright": null,
-            "url": "https://images.prismic.io/michaelpumo/2cda8e7c-be5a-45a2-9e34-0b2730fe1dae_project-moth.jpg?auto=compress,format",
-            "id": "Xkq99RAAACIAH0nj",
-            "edit": {
-              "x": 0,
-              "y": 0,
-              "zoom": 1,
-              "background": "#fff"
-            }
-          },
-          "name": "Moth",
-          "role": "Award-winning animation studio web-build with Nuxt.js and Prismic.",
-          "link": {
-            "link_type": "Web",
-            "url": "https://www.moth.studio",
-            "target": "_blank"
-          }
-        },
-        {
-          "image": {
-            "dimensions": {
-              "width": 800,
-              "height": 1066
-            },
-            "alt": "G.F Smith",
-            "copyright": null,
-            "url": "https://images.prismic.io/michaelpumo/3fce02c2-16f5-411a-b15a-cca68f14f423_project-gf-smith.jpg?auto=compress,format",
-            "id": "YCKiNhIAACIAQRaL",
-            "edit": {
-              "x": 0,
-              "y": 0,
-              "zoom": 1,
-              "background": "#fff"
-            }
-          },
-          "name": "G.F Smith",
-          "role": "135 years making and curating the world's finest and most distinctive papers.",
-          "link": {
-            "link_type": "Web",
-            "url": "https://gfsmith.com/",
-            "target": "_blank"
-          }
-        },
-        {
-          "image": {
-            "dimensions": {
-              "width": 800,
-              "height": 1066
-            },
-            "alt": "Blaasmo - Gridsome, Vue.js, Prismic, JavaScript",
-            "copyright": null,
-            "url": "https://images.prismic.io/michaelpumo/4723a646-c7c6-4b24-af5b-e587d32a506d_blaasmo.jpg?auto=compress,format",
-            "id": "Xt-mIxEAACAAIIP9",
-            "edit": {
-              "x": 0,
-              "y": 0,
-              "zoom": 1,
-              "background": "#fff"
-            }
-          },
-          "name": "Blaasmo",
-          "role": "Art advisor & collection management single page site built with Gridsome and Prismic.",
-          "link": {
-            "link_type": "Web",
-            "url": "https://blaasmo.com",
-            "target": "_blank"
-          }
-        },
-        {
-          "image": {
-            "dimensions": {
-              "width": 800,
-              "height": 1066
-            },
-            "alt": "Working From - Nuxt.js, Prismic CMS, JavaScript",
-            "copyright": null,
-            "url": "https://images.prismic.io/michaelpumo/f87b1b27-056b-4bd1-99c4-45f864753cfe_project-working-from.jpg?auto=compress,format",
-            "id": "Xkq_mBAAACEAH1DB",
-            "edit": {
-              "x": 0,
-              "y": 0,
-              "zoom": 1,
-              "background": "#fff"
-            }
-          },
-          "name": "Working From_",
-          "role": "Co-working space from The Hoxton built with Nuxt.js and WordPress.",
-          "link": {
-            "link_type": "Web",
-            "url": "https://workingfrom.thehoxton.com",
-            "target": "_blank"
-          }
-        },
-        {
-          "image": {
-            "dimensions": {
-              "width": 800,
-              "height": 1066
-            },
-            "alt": "Point Campus - Nuxt.js, Prismic CMS, JavaScript",
-            "copyright": null,
-            "url": "https://images.prismic.io/michaelpumo/902e3e9a-d59f-415d-8396-6ea35212dcb0_project-point-campus.jpg?auto=compress,format",
-            "id": "Xkq6iBAAACEAHzqH",
-            "edit": {
-              "x": 0,
-              "y": 0,
-              "zoom": 1,
-              "background": "#fff"
-            }
-          },
-          "name": "Point Campus",
-          "role": "Student development web-build made with Nuxt.js and Prismic.",
-          "link": {
-            "link_type": "Web",
-            "url": "https://pointcampus.ie",
-            "target": "_blank"
-          }
-        },
-        {
-          "image": {
-            "dimensions": {
-              "width": 800,
-              "height": 1066
-            },
-            "alt": "Foolproof - Nuxt.js, Silverstripe CMS, JavaScript",
-            "copyright": null,
-            "url": "https://images.prismic.io/michaelpumo/16ce72ae-52ea-422c-a108-a98f19826a63_project-foolproof.jpg?auto=compress,format",
-            "id": "XksiKRAAACQAIP0b",
-            "edit": {
-              "x": 0,
-              "y": 0,
-              "zoom": 1,
-              "background": "#fff"
-            }
-          },
-          "name": "Foolproof",
-          "role": "Agency web-build made with Nuxt.js and Silverstripe CMS.",
-          "link": {
-            "link_type": "Web",
-            "url": "https://foolproof.co.uk",
-            "target": "_blank"
-          }
-        },
-        {
-          "image": {
-            "dimensions": {
-              "width": 800,
-              "height": 1066
-            },
-            "alt": "Ragged Edge - WordPress, PHP, JavaScript, CSS",
-            "copyright": null,
-            "url": "https://images.prismic.io/michaelpumo/af9faaa3-576b-4d33-a263-b83a2a0f9366_project-raggededge.jpg?auto=compress,format",
-            "id": "XksiKxAAACEAIP0k",
-            "edit": {
-              "x": 0,
-              "y": 0,
-              "zoom": 1,
-              "background": "#fff"
-            }
-          },
-          "name": "Ragged Edge",
-          "role": "Agency portfolio built as a fully bespoke WordPress theme.",
-          "link": {
-            "link_type": "Web",
-            "url": "https://raggededge.com",
-            "target": "_blank"
-          }
-        },
-        {
-          "image": {
-            "dimensions": {
-              "width": 800,
-              "height": 1066
-            },
-            "alt": "Jason Bailey  - WordPress, PHP, JavaScript, CSS",
-            "copyright": null,
-            "url": "https://images.prismic.io/michaelpumo/f472a35e-b086-4020-b7f8-72d94bbf9c92_project-jasonbailey.jpg?auto=compress,format",
-            "id": "XksiKRAAACMAIP0a",
-            "edit": {
-              "x": 0,
-              "y": 0,
-              "zoom": 1,
-              "background": "#fff"
-            }
-          },
-          "name": "Jason Bailey",
-          "role": "Photography portfolio built with a fully bespoke WordPress system.",
-          "link": {
-            "link_type": "Web",
-            "url": "https://jasonbaileystudio.com",
-            "target": "_blank"
-          }
-        },
-        {
-          "image": {
-            "dimensions": {
-              "width": 800,
-              "height": 1066
-            },
-            "alt": "Sobolinaya - Vue.js, Prismic CMS, JavaScript",
-            "copyright": null,
-            "url": "https://images.prismic.io/michaelpumo/c404e552-1a9e-43b9-8337-b3ae118022c0_project-sobolinaya.jpg?auto=compress,format",
-            "id": "XksiKhAAACIAIP0g",
-            "edit": {
-              "x": 0,
-              "y": 0,
-              "zoom": 1,
-              "background": "#fff"
-            }
-          },
-          "name": "Sobolinaya",
-          "role": "Microsite for a Vodka brand built with Vue.js",
-          "link": {
-            "link_type": "Web",
-            "url": "https://sobolinaya.com",
-            "target": "_blank"
-          }
-        },
-        {
-          "image": {
-            "dimensions": {
-              "width": 800,
-              "height": 1066
-            },
-            "alt": "Pay.UK - WordPress, PHP, JavaScript, CSS",
-            "copyright": null,
-            "url": "https://images.prismic.io/michaelpumo/8ccf1f90-5deb-48da-8014-94219db4ef70_project-payuk.jpg?auto=compress,format",
-            "id": "XksqNBAAACQAISBd",
-            "edit": {
-              "x": 0,
-              "y": 0,
-              "zoom": 1,
-              "background": "#fff"
-            }
-          },
-          "name": "Pay.UK",
-          "role": "Full custom WordPress build for the leading retail payments authority.",
-          "link": {
-            "link_type": "Web",
-            "url": "https://www.wearepay.uk",
-            "target": "_blank"
-          }
-        },
-        {
-          "image": {
-            "dimensions": {
-              "width": 800,
-              "height": 1066
-            },
-            "alt": "How Now - Nuxt.js, Prismic CMS, JavaScript",
-            "copyright": null,
-            "url": "https://images.prismic.io/michaelpumo/1fa2aa38-64c7-495c-b0cd-cf3dbdded15b_project-hownow.jpg?auto=compress,format",
-            "id": "XksqNBAAACQAISBY",
-            "edit": {
-              "x": 0,
-              "y": 0,
-              "zoom": 1,
-              "background": "#fff"
-            }
-          },
-          "name": "How Now",
-          "role": "Creative agency and production company web-build on Nuxt.js and Prismic.",
-          "link": {
-            "link_type": "Web",
-            "url": "https://www.hownowcreative.com",
-            "target": "_blank"
-          }
-        },
-        {
-          "image": {
-            "dimensions": {
-              "width": 800,
-              "height": 1066
-            },
-            "alt": "This Works - Nuxt.js, Prismic CMS, JavaScript",
-            "copyright": null,
-            "url": "https://images.prismic.io/michaelpumo/a0f317e5-36b4-421b-b513-4ce45e13ea2f_project-thisworks.jpg?auto=compress,format",
-            "id": "XksiKhAAACIAIP0h",
-            "edit": {
-              "x": 0,
-              "y": 0,
-              "zoom": 1,
-              "background": "#fff"
-            }
-          },
-          "name": "This Works",
-          "role": "Design agency portfolio built with Nuxt.js and Prismic.",
-          "link": {
-            "link_type": "Web",
-            "url": "https://thisworks.co",
-            "target": "_blank"
-          }
-        },
-        {
-          "image": {
-            "dimensions": {
-              "width": 800,
-              "height": 1066
-            },
-            "alt": "Jax Coco",
-            "copyright": null,
-            "url": "https://images.prismic.io/michaelpumo/3b6dfb52-e34a-4ebc-a15f-f981d4ab7629_project-jaxcoco.jpg?auto=compress,format",
-            "id": "XksqNBAAACQAISBe",
-            "edit": {
-              "x": 0,
-              "y": 0,
-              "zoom": 1,
-              "background": "#fff"
-            }
-          },
-          "name": "Jax Coco",
-          "role": "Single-page microsite built statically with Pug and vanilla JavaScript.",
-          "link": {
-            "link_type": "Web",
-            "url": "https://www.jaxcoco.com",
-            "target": "_blank"
-          }
-        },
-        {
-          "image": {
-            "dimensions": {
-              "width": 800,
-              "height": 1066
-            },
-            "alt": "Applied Studio",
-            "copyright": null,
-            "url": "https://images.prismic.io/michaelpumo/c68426ed-e671-44bc-9e2e-9dfd468cff99_project-appliedstudio.jpg?auto=compress,format",
-            "id": "XksqNRAAACMAISBl",
-            "edit": {
-              "x": 0,
-              "y": 0,
-              "zoom": 1,
-              "background": "#fff"
-            }
-          },
-          "name": "Applied Studio",
-          "role": "Architecture and interior design portfolio built on WordPress.",
-          "link": {
-            "link_type": "Web",
-            "url": "https://applied.studio",
-            "target": "_blank"
-          }
-        },
-        {
-          "image": {
-            "dimensions": {
-              "width": 800,
-              "height": 1066
-            },
-            "alt": "De Beers",
-            "copyright": null,
-            "url": "https://images.prismic.io/michaelpumo/654141bf-6249-401a-a635-c86b37869476_project-debeers.jpg?auto=compress,format",
-            "id": "XksiKRAAACMAIP0Z",
-            "edit": {
-              "x": 0,
-              "y": 0,
-              "zoom": 1,
-              "background": "#fff"
-            }
-          },
-          "name": "De Beers",
-          "role": "E-commerce site for the World's largest diamond company built on Magento.",
-          "link": {
-            "link_type": "Web",
-            "url": "https://www.debeers.com",
-            "target": "_blank"
-          }
-        },
-        {
-          "image": {
-            "dimensions": {
-              "width": 800,
-              "height": 1066
-            },
-            "alt": "Ledmore Capital",
-            "copyright": null,
-            "url": "https://images.prismic.io/michaelpumo/4e39ec11-5f7c-4899-b499-5ee89c67e9c2_ledmore.jpg?auto=compress,format",
-            "id": "XudKzBEAAAS3P9cG",
-            "edit": {
-              "x": 0,
-              "y": 0,
-              "zoom": 1,
-              "background": "#fff"
-            }
-          },
-          "name": "Ledmore Capital",
-          "role": "Administering a diversified range of interests for an entrepreneurial family.",
-          "link": {
-            "link_type": "Web",
-            "url": "https://www.ledmorecapital.com",
-            "target": "_blank"
-          }
-        },
-        {
-          "image": {
-            "dimensions": {
-              "width": 800,
-              "height": 1066
-            },
-            "alt": "Chorus",
-            "copyright": null,
-            "url": "https://images.prismic.io/michaelpumo/7e3e67ea-d0ea-45a0-a3eb-15feafe3bec0_project-chorus.jpg?auto=compress,format",
-            "id": "YBR8-BIAACIAAr1j",
-            "edit": {
-              "x": 0,
-              "y": 0,
-              "zoom": 1,
-              "background": "#fff"
-            }
-          },
-          "name": "Chorus",
-          "role": "A creative agency producing powerful, theatrical & strategic live & digital experiences.",
-          "link": {
-            "link_type": "Web",
-            "url": "https://chorus.london",
+            "url": "https://zestx.netlify.com/",
             "target": "_blank"
           }
         }

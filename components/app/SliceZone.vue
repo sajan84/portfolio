@@ -61,7 +61,6 @@ export default {
   name: 'SliceZone',
   className: 'SliceZone',
   components: {
-    SliceClients,
     SliceCode,
     SliceContact,
     SliceImage,
