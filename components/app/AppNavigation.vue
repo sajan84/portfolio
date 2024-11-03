@@ -20,7 +20,7 @@
         <div :class="`${$options.className}__inner`">
           <ul :class="`${$options.className}__list`">
             <li
-              v-for="(item, index) in items"
+              v-for="(item, index) in filteredItems"
               :key="index"
               v-jump-to="{
                 id: slugify(item.id),
@@ -79,6 +79,10 @@ export default {
     ...mapGetters({
       navigationActive: 'navigation/active',
     }),
+    filteredItems() {
+      // Filter out items with the title 'Clients'
+      return this.items.filter(item => item.title !== 'Clients');
+    },
   },
   methods: {
     ...mapActions({

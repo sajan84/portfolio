@@ -3,13 +3,13 @@ import Sass from 'sass'
 export default {
   target: 'static',
   generate: {
-    fallback: true,
+    fallback: true, // Check if this is intended for your static site
   },
   head: {
     htmlAttrs: {
       lang: 'en-GB',
     },
-    title: 'Michael Pumo',
+    title: 'Sajan Pande', // Check for any overrides in individual pages
     meta: [
       { charset: 'utf-8' },
       { name: 'viewport', content: 'width=device-width, initial-scale=1' },
@@ -74,7 +74,7 @@ export default {
   ],
   modules: ['@nuxtjs/prismic'],
   prismic: {
-    endpoint: 'https://michaelpumo.cdn.prismic.io/api/v2',
+    endpoint: 'https://michaelpumo.cdn.prismic.io/api/v2', // Verify this endpoint
     linkResolver: '@/plugins/link-resolver.js',
     htmlSerializer: '@/plugins/html-serializer.js',
   },
@@ -94,7 +94,7 @@ export default {
     transpile: ['swiper', 'dom7'],
     extractCSS: true,
     babel: {
-      plugins: ['@babel/plugin-proposal-optional-chaining'],
+      plugins: ['@babel/plugin-proposal-optional-chaining'], // Ensure this plugin is installed
     },
     postcss: {
       plugins: {},
