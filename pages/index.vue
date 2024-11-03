@@ -8,7 +8,7 @@
     ]"
   >
     <AppNavigation
-      title="Menu"
+      title="Explore 😉"
       :ready="ready"
       :items="global.navigation"
     />
