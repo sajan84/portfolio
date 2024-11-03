@@ -8,7 +8,7 @@
     ]"
   >
     <AppNavigation
-      title="Burger menu"
+      title="Menu"
       :ready="ready"
       :items="global.navigation"
     />
