@@ -80,8 +80,8 @@ export default {
       title: this.meta_title
         ? this.slug === 'home'
           ? this.meta_title
-          : `${this.meta_title} - Michael Pumo`
-        : 'Michael Pumo',
+          : `${this.meta_title} - Sajan Pande`
+        : 'Sajan Pande',
       meta: [
         {
           hid: 'google-site-verification',
