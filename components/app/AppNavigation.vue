@@ -79,10 +79,20 @@ export default {
     ...mapGetters({
       navigationActive: 'navigation/active',
     }),
-    filteredItems() {
-      // Filter out items with the title 'Clients'
-      return this.items.filter(item => item.title !== 'Clients');
-    },
+filteredItems() {
+    return this.items
+      .filter(item => item.title !== 'Clients') // Filter out items with the title 'Clients'
+      .map(item => {
+        if (item.title === 'References') {
+          return {
+            ...item,
+            title: 'Experience', // Change title to "Experience"
+            description: 'Bringing extensive professional experience' // Custom description
+          };
+        }
+        return item;
+      });
+  },
   },
   methods: {
     ...mapActions({

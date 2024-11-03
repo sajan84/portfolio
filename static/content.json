@@ -166,11 +166,11 @@
       },
       "items": [
         {
-          "heading": "High-Quality Work",
+          "heading": "TSS Consultancy Pvt Ltd.",
           "paragraph": [
             {
               "type": "paragraph",
-              "text": "We've worked with Sajan on several projects and the work is of consistently high-quality. He continues to be one of our most valued digital resources and we look forward to working together more in future.",
+              "text": "[Jan 2024 - Present]\n Proficient in Java and Spring Boot, specializing in microservices, multi-tenancy, and event-driven architectures. Skilled in PostgreSQL, CI/CD on Azure, and caching with Redis and GuavaCache. Focused on secure, scalable solutions with expertise in middleware, dependency injection, and dynamic dependency management.",
               "spans": []
             }
           ],
@@ -180,11 +180,11 @@
           }
         },
         {
-          "heading": "Professional and Thorough",
+          "heading": "Kevalam Software",
           "paragraph": [
             {
               "type": "paragraph",
-              "text": "Sajan was incredibly thorough and professional in bringing our new website to life. As designers, we can be quite picky about how things work, but he took the challenge and developed every single aspect beautifully.",
+              "text": "[June 2023 - Aug 2023]\n During my internship, I developed a strong foundation in backend development within the MERN stack. I designed and implemented REST APIs with Node.js and Express, focusing on CRUD and soft delete, which enhanced your database management skills with MongoDB and reinforced the importance of robust backend processes in web applications.",
               "spans": []
             }
           ],
@@ -194,11 +194,11 @@
           }
         },
         {
-          "heading": "Smooth Process",
+          "heading": "LetsGrowMore",
           "paragraph": [
             {
               "type": "paragraph",
-              "text": "Working with Sajan has always been a smooth process from initial concepts to problem-solving, right through to every aspect of the development stages. He's our perfect digital partner.",
+              "text": "[Aug 2022 – Sep 2022]\nIn my internship, I concentrated on frontend development within the MERN stack, enhancing skills in React, HTML, CSS, JavaScript, and styling frameworks like Bootstrap and Material-UI. I contributed to improving web applications, gaining hands-on experience with Redux for state management and Axios for API integration, solidifying your foundation in frontend best practices.",
               "spans": []
             }
           ],
