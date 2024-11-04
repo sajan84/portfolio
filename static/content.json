@@ -175,8 +175,8 @@
             }
           ],
           "link": {
-            "url": "https://www.raggededge.com",
-            "label": "Ragged Edge"
+            "url": "",
+            "label": ""
           }
         },
         {
@@ -189,8 +189,8 @@
             }
           ],
           "link": {
-            "url": "https://www.moth.com",
-            "label": "Moth"
+            "url": "",
+            "label": ""
           }
         },
         {
@@ -203,8 +203,8 @@
             }
           ],
           "link": {
-            "url": "https://www.parallel.com",
-            "label": "Parallel"
+            "url": "",
+            "label": ""
           }
         }
       ],
@@ -324,7 +324,7 @@
           "role": "The website has events for a month, with visitor and admin modes. Visitors register and verify email to access events, while admins manage users and events through direct database access.",
           "link": {
             "link_type": "Web",
-            "url": "https://zestx.netlify.com/",
+            "url": "https://zestx.netlify.app/",
             "target": "_blank"
           }
         }

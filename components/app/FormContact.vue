@@ -4,12 +4,12 @@
       <h3>Message sent</h3>
       <p>
         I'll be in touch shortly. In the meantime you can reach out to me on
-        <a href="https://twitter.com/michaelpumo" target="_blank" rel="noopener"
+        <a href="https://x.com/SajanPande3" target="_blank" rel="noopener"
           >Twitter</a
         >
         or
         <a
-          href="https://www.linkedin.com/in/michaelpumo/"
+          href="https://www.linkedin.com/in/sajan-pande-8745b420a/"
           target="_blank"
           rel="noopener"
           >LinkedIn</a
@@ -31,12 +31,12 @@
       <h3>Unexpected error</h3>
       <p>
         Something went a bit awry. Could you reach out to me on
-        <a href="https://twitter.com/michaelpumo" target="_blank" rel="noopener"
+        <a href="https://x.com/SajanPande3" target="_blank" rel="noopener"
           >Twitter</a
         >
         or
         <a
-          href="https://www.linkedin.com/in/michaelpumo/"
+          href="https://www.linkedin.com/in/sajan-pande-8745b420a/"
           target="_blank"
           rel="noopener"
           >LinkedIn</a
@@ -95,7 +95,7 @@
           id="budget"
           v-model.trim="budget"
           :validation="$v.budget"
-          placeholder="£5,000 – £8,000"
+          placeholder="$5,000 – $8,000"
           @input="$v.budget.$touch()"
         />
       </FormField>
@@ -287,7 +287,7 @@ export default {
       try {
         return await axios({
           method: 'post',
-          url: '/.netlify/functions/send-message',
+          url: 'https://email-sender-pi-seven.vercel.app/send-email',
           data: {
             name: this.name.trim(),
             email: this.email.trim(),
@@ -300,6 +300,7 @@ export default {
           },
         })
       } catch (error) {
+        console.log(error);
         return error
       }
     },
